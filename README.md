@@ -1,16 +1,12 @@
-# React + Vite
+<h1 align="center">📚Bookhaven
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+</h1>
+<p align="center"><b><i>Welcome to my Beautiful BookStore! 👋</i></b></p>
 
-Currently, two official plugins are available:
+<p align="center">
+  🚀A curated **Online Bookstore Application** specializing in Fiction, Horror, Romance, Sci-Fi, and Technology, etc . The platform delivers an immersive browsing experience, allowing users to seamlessly transition from thrilling horror and sweeping romance to cutting-edge sci-fi and tech documentation. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+<br>
+  The Bookstore features a modern, interactive, and responsive design with smooth animations, Price, Rating and an engaging user interface. 
+  <br><b>💭Used skills -</b> HTML5, CSS3, JavaScript, React.js <br>
+</p>
